@@ -20,6 +20,12 @@ take([1, 2, 3], function (i, el) { return 3 == el });
 // > [3]
 ```
 
+## Test
+
+```bash
+$ make test
+```
+
 ## License
 
   MIT
