@@ -1,0 +1,12 @@
+{
+  "name": "take",
+  "repo": "yields/take",
+  "description": "take N elements from array",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}

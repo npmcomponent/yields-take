@@ -1,0 +1,11 @@
+{
+  "name": "take",
+  "version": "0.0.1",
+  "author": "Amir Abu Shareb <amir.abu.shareb@me.com>",
+  "description": "Take N elements from array",
+  "keywords": ["array", "take"],
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  }
+}
