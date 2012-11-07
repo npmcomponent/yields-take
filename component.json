@@ -2,7 +2,7 @@
   "name": "take",
   "repo": "yields/take",
   "description": "take N elements from array",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [],
   "dependencies": {},
   "development": {},
